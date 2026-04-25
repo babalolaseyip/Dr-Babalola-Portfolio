@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://babalolaseyip.github.io/Dr-Babalola-Portfolio/sitemap.xml
